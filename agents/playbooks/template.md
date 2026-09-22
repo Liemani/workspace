@@ -67,4 +67,4 @@ Playbooks define durable operational knowledge for a role.
 
 - Use `created` for the document creation date.
 - Keep the summary short and declarative.
-- Describe the stable operating pattern, not a one-time procedure.
+- Describe the stable operating pattern, not a one-off task.

@@ -30,7 +30,7 @@ related_tasks:
 - 대상: <예: 조직, 계정, 시스템, 서비스>
 - 방식: <예: 인증 방식, 적용 방식>
 
-## 수행 절차
+## 수행 내용
 
 ### 1. <첫 번째 단계>
 
@@ -75,7 +75,7 @@ Work logs record what happened during execution so later work can reuse the evid
 
 ### Environment
 
-- Record the execution context before the procedure.
+- Record the execution context before the work.
 - Keep the subject, target, and method explicit.
 
 Structure:
@@ -84,7 +84,7 @@ Structure:
 - `target`
 - `method`
 
-### Procedure
+### Execution
 
 - Record the sequence of actions in order.
 - Keep the steps factual and readable.

@@ -16,10 +16,8 @@ created: 2026-06-18
 
 ## Reference
 
-- [requirements](records/requirements/index.md): 요구사항 관리
 - [wiki](wiki/index.md): 맥락과 참고 문서
 - [extracted](extracted/index.md): 원문에서 추출한 산출물
-- [docs](records/docs/index.md): 보조 문서와 일반 문서
 - [indexes](indexes/index.md): 묶음형 네비게이션
 - [records](records/index.md): 기록 컬렉션 진입점
 

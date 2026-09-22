@@ -7,6 +7,5 @@
 - [broadcast_setup](broadcast_setup/index.md): 방송 환경 관련 자료
 - [template](template/README.md): project template
 - [gf-ict](gf-ict/README.md): gf-ict 프로젝트
-- [portfolio](portfolio.md): 포트폴리오 관련 자료
-- [register.txt](register.txt): 등록 관련 기록
-- [log.txt](log.txt): 로그 기록
+- [world-modeling-workbench](world-modeling-workbench/README.md): world modeling workbench
+- [portfolio](portfolio/README.md): 포트폴리오 관련 자료

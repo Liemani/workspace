@@ -13,5 +13,3 @@ created: 2026-06-30
 - [tasks](tasks/index.md): 실행 단위의 작업
 - [work_logs](work_logs/index.md): 진행 기록
 - [decisions](decisions/index.md): 선택과 판단의 기록
-- [docs](docs/index.md): 보조 문서와 일반 문서
-- [requirements](requirements/index.md): 요구사항 관리
