@@ -6,7 +6,7 @@
 
 - [Agents](agents/index.md): durable documentation of agent responsibilities and operating practice.
 - [Recorded Knowledge](records/index.md): durable records and decisions.
-- [Projects](projects/index.md): managed project material and workspace areas.
+- [Project Template](projects/template/README.md): structure for local project material.
 - [Navigation Indexes](indexes/index.md): grouped navigation for the repository.
 - [Design Principles](PRINCIPLES.md): operating principles behind the structure.
 - [AI Agent Onboarding](AGENTS.md): how a new agent should enter the workspace.
